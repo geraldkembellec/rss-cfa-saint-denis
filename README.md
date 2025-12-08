@@ -1,4 +1,6 @@
 # rss-cfa-saint-denis
 Flux RSS fictif de notre CFA
 à lire depuis : http://geraldkembellec.github.io/rss-cfa-saint-denis/rss-cfa-news.rss 
-grâce à pages
+grâce à Pages (le service de publication Web de GitHub)
+
+Vous pouvez le charger avec https://www.inoreader.com/ ou https://codebeautify.org/
