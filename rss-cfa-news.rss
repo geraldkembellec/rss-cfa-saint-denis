@@ -1,1 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Les news du CFA</title>
+    <link>https://cfa-idf.cnam.fr</link>
+    <description>Actualités du CFA du Cnam à Saint-Denis</description>
+
+    <!-- Image du channel -->
+    <image>
+      <url>https://lh3.googleusercontent.com/p/AF1QipPFnwr99voRmSkWidlm_rO5DuV7A5d9MW3eTRqW=s294-w294-h220-n-k-no</url>
+      <title>Les news du CFA</title>
+      <link>https://cfa-idf.cnam.fr/</link>
+    </image>
+
+    <!-- Item 1 -->
+    <title>Journée Portes Ouvertes Saint-Denis - JPO CFA Cnam 2026</title>
+      <link>https://cfa-idf.cnam.fr/apprentis/jpo-cfa-cnam-2026-1581548.kjsp</link>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/4/47/Handshake_%28Unsplash%29.jpg" type="image/jpeg" />
+      <guid>https://cfa-cnam-saint-denis.example.org/news/recherche-contrats-medas</guid>
+      <pubDate>Mon, 09 Dec 2024 10:00:00 +0100</pubDate>
+    </item>
+
+    <!-- Item 2 -->
+    <item>
+      <title>Certains apprentis n’ont pas encore de contrat</title>
+      <link>https://cfa-cnam-saint-denis.example.org/news/apprentis-sans-contrat</link>
+      <description><![CDATA[
+        Plusieurs apprentis sont encore en attente d’un contrat. Le CFA reste disponible pour toute entreprise intéressée.
+      ]]></description>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/0/04/Waiting_room_%28Unsplash%29.jpg" type="image/jpeg" />
+      <guid>https://cfa-cnam-saint-denis.example.org/news/apprentis-sans-contrat</guid>
+      <pubDate>Mon, 09 Dec 2024 11:00:00 +0100</pubDate>
+    </item>
+
+    <!-- Item 3 -->
+    <item>
+      <title>Réussite des apprentis dans leur projet de système de recommandation</title>
+      <link>https://cfa-cnam-saint-denis.example.org/news/projet-recommandation</link>
+      <description><![CDATA[
+        Les apprentis ont abouti avec succès leur projet de système de recommandation, illustrant un haut niveau technique et scientifique.
+      ]]></description>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Artificial_intelligence_brain_network.jpg" type="image/jpeg" />
+      <guid>https://cfa-cnam-saint-denis.example.org/news/projet-recommandation</guid>
+      <pubDate>Mon, 09 Dec 2024 12:00:00 +0100</pubDate>
+    </item>
+
+  </channel>
+</rss>
 
