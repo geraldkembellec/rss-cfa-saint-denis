@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <title>Les news du CFA</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+</head>
+<body>
+
 <?php
 // URL du flux RSS
 $rss_url = "http://geraldkembellec.github.io/rss-cfa-saint-denis/rss-cfa-news.rss";
@@ -35,3 +43,5 @@ foreach ($rss->channel->item as $item) {
     echo "<hr>";
 }
 ?>
+</body>
+</html>
